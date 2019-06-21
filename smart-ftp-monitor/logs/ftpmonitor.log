@@ -1,0 +1,10 @@
+2019-03-15 13:46:51,716  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-03-15 13:46:51,720  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - 127.0.0.1socket服务启动，监听端口:8899
+2019-03-15 13:47:21,086  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-03-15 13:47:21,089  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - 127.0.0.1socket服务启动，监听端口:8899
+2019-03-15 13:48:48,682  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-03-15 13:48:48,685  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - 127.0.0.1socket服务启动，监听端口:8899
+2019-03-15 13:49:26,133  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-03-15 13:49:26,136  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - 127.0.0.1socket服务启动，监听端口:8899
+2019-03-15 13:49:51,430  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-03-15 13:49:51,433  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - 127.0.0.1socket服务启动，监听端口:8899

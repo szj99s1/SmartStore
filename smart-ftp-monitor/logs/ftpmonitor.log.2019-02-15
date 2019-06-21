@@ -1,0 +1,403 @@
+2019-02-15 14:41:15,897  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-15 14:41:36,579  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149421795_yqt.jpg]
+2019-02-15 14:41:36,579  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149422826_yyg.jpg]
+2019-02-15 14:41:36,579  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149423443_lzf.jpg]
+2019-02-15 14:41:36,581  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149424294_szj.jpg]
+2019-02-15 14:41:36,580  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149423606_csw.jpg]
+2019-02-15 14:41:37,237  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,237  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,237  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149425092_xh.jpg]
+2019-02-15 14:41:37,238  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149425790_szj.jpg]
+2019-02-15 14:41:37,238  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,239  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149426483_szj.jpg]
+2019-02-15 14:41:37,244  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,245  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149427184_szj.jpg]
+2019-02-15 14:41:37,245  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,246  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149428216_yyg.jpg]
+2019-02-15 14:41:37,264  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,264  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,264  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,264  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,265  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149428691_jhj.jpg]
+2019-02-15 14:41:37,265  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149429389_szj.jpg]
+2019-02-15 14:41:37,266  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149430088_jhj.jpg]
+2019-02-15 14:41:37,265  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149429624_djy.jpg]
+2019-02-15 14:41:37,274  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,275  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149430249_csw.jpg]
+2019-02-15 14:41:37,287  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,287  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149430561_hsq.jpg]
+2019-02-15 14:41:37,291  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,291  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,291  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,292  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149430720_csw.jpg]
+2019-02-15 14:41:37,292  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149431222_csw.jpg]
+2019-02-15 14:41:37,292  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149431069_hsq.jpg]
+2019-02-15 14:41:37,292  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,293  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149431541_hsq.jpg]
+2019-02-15 14:41:37,303  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,304  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149433598_xzl.jpg]
+2019-02-15 14:41:37,307  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,308  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149434429_xh.jpg]
+2019-02-15 14:41:37,308  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,309  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149435053_lzf.jpg]
+2019-02-15 14:41:37,311  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,312  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149435678_lzf.jpg]
+2019-02-15 14:41:37,313  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,314  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149436370_szj.jpg]
+2019-02-15 14:41:37,325  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,326  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149436692_hsq.jpg]
+2019-02-15 14:41:37,330  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,331  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149437569_xzl.jpg]
+2019-02-15 14:41:37,332  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,332  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149437877_hsq.jpg]
+2019-02-15 14:41:37,336  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,337  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149438871_yyg.jpg]
+2019-02-15 14:41:37,338  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,339  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149439893_yyg.jpg]
+2019-02-15 14:41:37,343  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,344  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149440603_szj.jpg]
+2019-02-15 14:41:37,348  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,348  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149440984_jd.jpg]
+2019-02-15 14:41:37,349  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,350  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149455065_xh.jpg]
+2019-02-15 14:41:37,351  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,351  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149441216_djy.jpg]
+2019-02-15 14:41:37,361  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,361  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,362  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149441530_hsq.jpg]
+2019-02-15 14:41:37,364  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149441837_hsq.jpg]
+2019-02-15 14:41:37,368  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,369  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149442141_hsq.jpg]
+2019-02-15 14:41:37,375  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,376  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149443008_xzl.jpg]
+2019-02-15 14:41:37,385  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,395  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,399  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149443860_jhj.jpg]
+2019-02-15 14:41:37,399  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149443393_jd.jpg]
+2019-02-15 14:41:37,425  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,427  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149445563_szj.jpg]
+2019-02-15 14:41:37,428  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,449  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,450  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149445878_hsq.jpg]
+2019-02-15 14:41:37,450  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149446658_szj.jpg]
+2019-02-15 14:41:37,470  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,470  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149447653_yyg.jpg]
+2019-02-15 14:41:37,479  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,479  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,480  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,480  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149448038_jd.jpg]
+2019-02-15 14:41:37,480  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149448269_djy.jpg]
+2019-02-15 14:41:37,481  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149449057_xh.jpg]
+2019-02-15 14:41:37,488  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,489  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149449379_hsq.jpg]
+2019-02-15 14:41:37,496  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,497  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149449699_hsq.jpg]
+2019-02-15 14:41:37,524  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,529  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,537  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,538  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149450546_xzl.jpg]
+2019-02-15 14:41:37,552  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,553  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149451324_xh.jpg]
+2019-02-15 14:41:37,558  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149452075_lzf.jpg]
+2019-02-15 14:41:37,558  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,560  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149452389_hsq.jpg]
+2019-02-15 14:41:37,565  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149452767_jd.jpg]
+2019-02-15 14:41:37,569  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,570  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149453224_jhj.jpg]
+2019-02-15 14:41:37,576  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,577  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149454061_xzl.jpg]
+2019-02-15 14:41:37,587  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,587  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b/0___1548149454287_djy.jpg]
+2019-02-15 14:41:37,599  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,601  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,601  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,606  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:41:37,606  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:45:32,369  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-15 14:45:43,056  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149443860_jhj.jpg]
+2019-02-15 14:45:43,057  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149445563_szj.jpg]
+2019-02-15 14:45:43,666  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:45:43,666  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,578  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149420739_csw.jpg]
+2019-02-15 14:46:19,578  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149469569_hsq.jpg]
+2019-02-15 14:46:19,593  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,595  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,702  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149421795_yqt.jpg]
+2019-02-15 14:46:19,702  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149422826_yyg.jpg]
+2019-02-15 14:46:19,702  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149423443_lzf.jpg]
+2019-02-15 14:46:19,703  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149423606_csw.jpg]
+2019-02-15 14:46:19,703  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149424294_szj.jpg]
+2019-02-15 14:46:19,718  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,719  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,719  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149425092_xh.jpg]
+2019-02-15 14:46:19,719  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,720  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,720  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149425790_szj.jpg]
+2019-02-15 14:46:19,721  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149426483_szj.jpg]
+2019-02-15 14:46:19,721  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149427184_szj.jpg]
+2019-02-15 14:46:19,724  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,725  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149428216_yyg.jpg]
+2019-02-15 14:46:19,734  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,734  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,734  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149428691_jhj.jpg]
+2019-02-15 14:46:19,734  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,735  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429389_szj.jpg]
+2019-02-15 14:46:19,735  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429624_djy.jpg]
+2019-02-15 14:46:19,742  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,743  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430088_jhj.jpg]
+2019-02-15 14:46:19,743  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,744  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430249_csw.jpg]
+2019-02-15 14:46:19,747  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,747  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,748  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430561_hsq.jpg]
+2019-02-15 14:46:19,748  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430720_csw.jpg]
+2019-02-15 14:46:19,755  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,755  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,756  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149431069_hsq.jpg]
+2019-02-15 14:46:19,756  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149431222_csw.jpg]
+2019-02-15 14:46:19,759  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,759  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149431541_hsq.jpg]
+2019-02-15 14:46:19,760  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,761  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149433598_xzl.jpg]
+2019-02-15 14:46:19,767  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,768  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149434429_xh.jpg]
+2019-02-15 14:46:19,773  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,775  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149435053_lzf.jpg]
+2019-02-15 14:46:19,778  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,778  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,779  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149435678_lzf.jpg]
+2019-02-15 14:46:19,780  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,780  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149436370_szj.jpg]
+2019-02-15 14:46:19,784  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149436692_hsq.jpg]
+2019-02-15 14:46:19,798  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,800  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149437569_xzl.jpg]
+2019-02-15 14:46:19,803  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,804  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149437877_hsq.jpg]
+2019-02-15 14:46:19,805  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,806  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149438871_yyg.jpg]
+2019-02-15 14:46:19,809  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,809  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,810  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149439893_yyg.jpg]
+2019-02-15 14:46:19,811  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149440603_szj.jpg]
+2019-02-15 14:46:19,818  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,819  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149440984_jd.jpg]
+2019-02-15 14:46:19,822  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,822  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149441216_djy.jpg]
+2019-02-15 14:46:19,824  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,825  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149441530_hsq.jpg]
+2019-02-15 14:46:19,827  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,828  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149441837_hsq.jpg]
+2019-02-15 14:46:19,829  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,830  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149442141_hsq.jpg]
+2019-02-15 14:46:19,840  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,840  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,840  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149443008_xzl.jpg]
+2019-02-15 14:46:19,840  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149443393_jd.jpg]
+2019-02-15 14:46:19,843  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,844  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149443860_jhj.jpg]
+2019-02-15 14:46:19,854  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,854  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149445563_szj.jpg]
+2019-02-15 14:46:19,858  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,858  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,858  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149445878_hsq.jpg]
+2019-02-15 14:46:19,859  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149446658_szj.jpg]
+2019-02-15 14:46:19,867  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,868  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149447653_yyg.jpg]
+2019-02-15 14:46:19,875  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,876  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149448038_jd.jpg]
+2019-02-15 14:46:19,879  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,879  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149448269_djy.jpg]
+2019-02-15 14:46:19,880  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,881  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,881  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149449057_xh.jpg]
+2019-02-15 14:46:19,881  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149449379_hsq.jpg]
+2019-02-15 14:46:19,884  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,884  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149449699_hsq.jpg]
+2019-02-15 14:46:19,890  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,891  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149450546_xzl.jpg]
+2019-02-15 14:46:19,892  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,892  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,893  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149451324_xh.jpg]
+2019-02-15 14:46:19,893  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149452075_lzf.jpg]
+2019-02-15 14:46:19,898  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,904  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149452389_hsq.jpg]
+2019-02-15 14:46:19,907  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,908  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149452767_jd.jpg]
+2019-02-15 14:46:19,913  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,913  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,914  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149453224_jhj.jpg]
+2019-02-15 14:46:19,917  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,918  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149454061_xzl.jpg]
+2019-02-15 14:46:19,919  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,919  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149454287_djy.jpg]
+2019-02-15 14:46:19,920  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149455065_xh.jpg]
+2019-02-15 14:46:19,923  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,924  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149455225_csw.jpg]
+2019-02-15 14:46:19,931  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,932  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149455532_hsq.jpg]
+2019-02-15 14:46:19,934  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,934  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,935  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149456751_djy.jpg]
+2019-02-15 14:46:19,938  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149457061_hsq.jpg]
+2019-02-15 14:46:19,938  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,939  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149457674_lzf.jpg]
+2019-02-15 14:46:19,948  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,948  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149457990_hsq.jpg]
+2019-02-15 14:46:19,950  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,951  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149458682_szj.jpg]
+2019-02-15 14:46:19,953  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,954  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149459372_szj.jpg]
+2019-02-15 14:46:19,955  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,956  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149459688_hsq.jpg]
+2019-02-15 14:46:19,958  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,959  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149460699_yyg.jpg]
+2019-02-15 14:46:19,967  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,968  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149461744_yyg.jpg]
+2019-02-15 14:46:19,970  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,970  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,970  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149462135_jd.jpg]
+2019-02-15 14:46:19,971  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149463073_yqt.jpg]
+2019-02-15 14:46:19,973  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,974  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149463460_jd.jpg]
+2019-02-15 14:46:19,976  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,977  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149464169_szj.jpg]
+2019-02-15 14:46:19,988  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,988  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,988  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149464479_hsq.jpg]
+2019-02-15 14:46:19,988  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149465394_yqt.jpg]
+2019-02-15 14:46:19,991  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,992  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149466154_xh.jpg]
+2019-02-15 14:46:19,996  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:19,997  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149466665_jhj.jpg]
+2019-02-15 14:46:20,002  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,003  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149467049_jd.jpg]
+2019-02-15 14:46:20,008  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,009  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149467764_szj.jpg]
+2019-02-15 14:46:20,009  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,011  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149468079_hsq.jpg]
+2019-02-15 14:46:20,013  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,014  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149468556_jhj.jpg]
+2019-02-15 14:46:20,017  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,018  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149469265_szj.jpg]
+2019-02-15 14:46:20,032  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,032  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,038  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,038  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 14:46:20,038  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:57) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:25:53,400  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-15 16:26:11,125  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149435678_lzf.jpg]
+2019-02-15 16:26:11,125  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149436370_szj.jpg]
+2019-02-15 16:26:11,125  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149436692_hsq.jpg]
+2019-02-15 16:26:11,176  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[9775]newlength[9775]
+2019-02-15 16:26:11,176  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[8724]newlength[8724]
+2019-02-15 16:26:11,178  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[15992]newlength[15992]
+2019-02-15 16:26:11,744  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:26:11,744  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:26:11,747  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:31:56,550  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-15 16:32:03,891  INFO pool-1-thread-4 (org.apache.commons.configuration.PropertiesConfiguration.reload:844) - Reloading configuration. URL is file:/D:/dev/doffer/source/IDEASPACE/smart-ftp-monitor/target/classes/conf.properties
+2019-02-15 16:32:03,892  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429389_szj.jpg]
+2019-02-15 16:32:03,892  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429624_djy.jpg]
+2019-02-15 16:32:03,892  INFO pool-1-thread-6 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430088_jhj.jpg]
+2019-02-15 16:32:03,895  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429389_szj.jpg]
+2019-02-15 16:32:03,896  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:42) - oldlength[4803]newlength[4803]
+2019-02-15 16:32:03,896  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149429624_djy.jpg]
+2019-02-15 16:32:03,896  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149430088_jhj.jpg]
+2019-02-15 16:32:03,898  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:42) - oldlength[4348]newlength[4348]
+2019-02-15 16:32:03,898  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:42) - oldlength[4321]newlength[4321]
+2019-02-15 16:32:03,943  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[4803]newlength[4803]
+2019-02-15 16:32:03,943  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[4348]newlength[4348]
+2019-02-15 16:32:03,948  INFO pool-1-thread-6 (com.daofu.monitor.FileUploadThread.run:43) - oldlength[4321]newlength[4321]
+2019-02-15 16:32:03,968  INFO pool-1-thread-5 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:32:03,968  INFO pool-1-thread-4 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:32:03,976  INFO pool-1-thread-6 (com.daofu.monitor.FileUploadThread.run:66) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-15 16:32:04,362  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429624_djy.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,362  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149430088_jhj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,362  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,362  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,362  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,362  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,365  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429624_djy.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,365  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,365  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149430088_jhj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,366  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,366  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,366  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,368  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149430088_jhj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,368  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429624_djy.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,368  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:97) - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://192.168.6.241:9997: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg (系统找不到指定的文件。)
+2019-02-15 16:32:04,369  INFO pool-1-thread-2 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,369  INFO pool-1-thread-3 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,369  INFO pool-1-thread-1 (org.apache.http.impl.execchain.RetryExec.execute:113) - Retrying request to {}->http://192.168.6.241:9997
+2019-02-15 16:32:04,371 ERROR pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:77) - FileUploadThread
+java.io.FileNotFoundException: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429624_djy.jpg (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.apache.http.entity.mime.content.FileBody.writeTo(FileBody.java:116)
+	at org.apache.http.entity.mime.AbstractMultipartForm.doWriteTo(AbstractMultipartForm.java:134)
+	at org.apache.http.entity.mime.AbstractMultipartForm.writeTo(AbstractMultipartForm.java:157)
+	at org.apache.http.entity.mime.MultipartFormEntity.writeTo(MultipartFormEntity.java:113)
+	at org.apache.http.impl.DefaultBHttpClientConnection.sendRequestEntity(DefaultBHttpClientConnection.java:156)
+	at org.apache.http.impl.conn.CPoolProxy.sendRequestEntity(CPoolProxy.java:160)
+	at org.apache.http.protocol.HttpRequestExecutor.doSendRequest(HttpRequestExecutor.java:238)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.daofu.monitor.FileUploadThread.run(FileUploadThread.java:67)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-15 16:32:04,373 ERROR pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:77) - FileUploadThread
+java.io.FileNotFoundException: C:\Users\shenzj\Desktop\temp\test\b\0___1548149430088_jhj.jpg (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.apache.http.entity.mime.content.FileBody.writeTo(FileBody.java:116)
+	at org.apache.http.entity.mime.AbstractMultipartForm.doWriteTo(AbstractMultipartForm.java:134)
+	at org.apache.http.entity.mime.AbstractMultipartForm.writeTo(AbstractMultipartForm.java:157)
+	at org.apache.http.entity.mime.MultipartFormEntity.writeTo(MultipartFormEntity.java:113)
+	at org.apache.http.impl.DefaultBHttpClientConnection.sendRequestEntity(DefaultBHttpClientConnection.java:156)
+	at org.apache.http.impl.conn.CPoolProxy.sendRequestEntity(CPoolProxy.java:160)
+	at org.apache.http.protocol.HttpRequestExecutor.doSendRequest(HttpRequestExecutor.java:238)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.daofu.monitor.FileUploadThread.run(FileUploadThread.java:67)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-15 16:32:04,371 ERROR pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:77) - FileUploadThread
+java.io.FileNotFoundException: C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.apache.http.entity.mime.content.FileBody.writeTo(FileBody.java:116)
+	at org.apache.http.entity.mime.AbstractMultipartForm.doWriteTo(AbstractMultipartForm.java:134)
+	at org.apache.http.entity.mime.AbstractMultipartForm.writeTo(AbstractMultipartForm.java:157)
+	at org.apache.http.entity.mime.MultipartFormEntity.writeTo(MultipartFormEntity.java:113)
+	at org.apache.http.impl.DefaultBHttpClientConnection.sendRequestEntity(DefaultBHttpClientConnection.java:156)
+	at org.apache.http.impl.conn.CPoolProxy.sendRequestEntity(CPoolProxy.java:160)
+	at org.apache.http.protocol.HttpRequestExecutor.doSendRequest(HttpRequestExecutor.java:238)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.daofu.monitor.FileUploadThread.run(FileUploadThread.java:67)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

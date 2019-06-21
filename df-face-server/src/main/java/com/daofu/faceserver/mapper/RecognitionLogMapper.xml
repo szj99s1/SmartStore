@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--命名空间应该是对应接口的包名+接口名 -->
+<mapper namespace="com.daofu.faceserver.dao.RecognitionLogDao">
+	<insert id="add" parameterType="com.daofu.faceserver.model.RecognitionLog">
+		INSERT INTO
+		biz_recognition_log(create_time,org_id,shop_id,device_code,face_url,original_url,obj_key,user_id,score,name,unit_name,user_type,sub_org_id,entrance,rec_id,equipment_position,equipment_name,sex,age,angel_yaw,angel_pitch,user_name)
+		VALUES(#{create_time},#{org_id},#{shop_id},#{device_code},#{face_url},#{original_url},#{obj_key},#{user_id},#{score},#{name},#{unit_name},#{user_type},#{sub_org_id},#{entrance},#{rec_id},#{equipment_position},#{equipment_name},#{sex},#{age},#{angel_yaw},#{angel_pitch},#{user_name})
+	</insert>
+</mapper>

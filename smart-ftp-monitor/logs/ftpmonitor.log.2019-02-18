@@ -1,0 +1,52 @@
+2019-02-18 11:37:16,664  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-18 11:37:32,279  INFO Thread-0 (com.daofu.monitor.FileListener.onFileCreate:39) - abp:C:\Users\shenzj\Desktop\temp\test\b\0___1548149420739_csw.jpg
+2019-02-18 11:37:32,285  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:36) - 文件上传[C:/Users/shenzj/Desktop/temp/test/b/0___1548149420739_csw.jpg]
+2019-02-18 11:37:32,296  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:50) - oldlength[5982]newlength[5982]
+2019-02-18 11:37:32,808  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:84) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 11:41:07,523  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-18 11:41:26,828  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg]
+2019-02-18 11:41:26,838  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[4803]newlength[4803]
+2019-02-18 11:42:01,410  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 12:03:17,486  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-18 12:03:24,301  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\0___1548149428691_jhj.jpg]
+2019-02-18 12:03:24,312  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[5779]newlength[5779]
+2019-02-18 12:03:24,791  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 12:03:40,097  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-18 12:04:31,610  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg]
+2019-02-18 12:04:31,621  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[4803]newlength[4803]
+2019-02-18 12:04:37,680  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 13:11:01,306  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\0___1548149429389_szj.jpg]
+2019-02-18 13:11:01,306  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\0___1548149429624_djy.jpg]
+2019-02-18 13:11:01,319  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[4803]newlength[4803]
+2019-02-18 13:11:01,319  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[4348]newlength[4348]
+2019-02-18 13:11:01,355  INFO pool-1-thread-3 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 13:11:01,384  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 13:25:01,440  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:26:39,050 ERROR Thread-0 (com.daofu.monitor.ServiceServerTask.run:59) - ServiceServerTask
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at com.daofu.monitor.ServiceServerTask.run(ServiceServerTask.java:29)
+	at java.lang.Thread.run(Thread.java:748)
+2019-02-18 13:26:52,063  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:28:11,918  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:28:51,172  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:33:33,734  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:34:39,141  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:34:58,964  INFO main (com.daofu.monitor.ServiceServerTask.startServer:23) - socket服务启动，监听端口:8899
+2019-02-18 13:40:20,694 ERROR main (com.daofu.monitor.ServiceServerTask.startServer:29) - java.net.BindException: Address already in use: JVM_Bind
+2019-02-18 13:40:31,264 ERROR main (com.daofu.monitor.ServiceServerTask.startServer:29) - java.net.BindException: Address already in use: JVM_Bind
+2019-02-18 13:41:42,034  INFO main (com.daofu.monitor.FileMonitor.main:42) - ftp文件夹监听服务启动成功
+2019-02-18 13:42:18,037  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\abcdefg_STOP\0___1548149437877_hsq.jpg]
+2019-02-18 13:42:18,037  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:34) - 文件上传[C:\Users\shenzj\Desktop\temp\test\b\abcdefg_STOP\0___1548149438871_yyg.jpg]
+2019-02-18 13:42:18,048  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[7899]newlength[7899]
+2019-02-18 13:42:18,049  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:48) - oldlength[7012]newlength[7012]
+2019-02-18 13:42:18,654  INFO pool-1-thread-2 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]
+2019-02-18 13:42:18,672  INFO pool-1-thread-1 (com.daofu.monitor.FileUploadThread.run:83) - Response[{"msg":"操作成功","errCode":"0"}]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.daofu.faceserver.dao.EquipmentDao">
+    <!--id应该是接口中的方法，结果类型如没有配置别名则应该使用全名称 -->
+    <!--获得所有设备 -->
+       <!--根据device_code获得所有设备 -->
+    <select id="getByDeviceCode" resultType="com.daofu.faceserver.model.Equipment">
+       select id,org_id,sub_org_id,shop_id,equipment_type,equipment_name
+       ,equipment_position,remark,direction,vip_room,status,device_code
+       ,unique_number,gmt_create,
+       gmt_modify,mac,camera_io,rtsp_addr,camera_provider,dev_class
+       ,product_id,active_code,version,active_time,expriry_time,stranger_switch
+       ,face_score,ip,location,image_quality,shop_name,org_name,yaw,pitch,width,user_filter_time,compare_score
+       from device_view
+       where  device_code=#{0}  limit 1
+    </select>
+</mapper>

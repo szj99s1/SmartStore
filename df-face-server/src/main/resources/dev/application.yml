@@ -1,0 +1,118 @@
+server:
+  port: 8081
+  connection-timeout: 10000
+  tomcat:
+    max-threads: 500
+
+# 数据库配置
+spring:
+  datasource:
+  # 测试环境
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    druid:
+      url: jdbc:mysql://192.168.6.241:3306/smartstore?setUnicode=true&characterEncoding=utf8&useSSL=false
+      username: root
+      password: daofu
+      stat-view-servlet:
+        enabled: false
+      test-on-borrow: true
+      initial-size: 0
+      min-idle: 1
+      max-active: 20
+      max-wait: 60000
+      filters: stat,wall,log4j2
+      filter:
+        stat:
+          log-slow-sql: true
+      web-stat-filter:
+        enabled: false
+  http:
+    encoding:
+      force: true
+      force-response: true
+      enabled: true
+      charset: UTF-8
+  servlet:
+    multipart:
+      max-request-size: 200MB
+      max-file-size: 20MB
+
+# redis配置
+df:
+  redis:
+    single-redis:
+      host: 47.110.85.176
+      port: 8081
+#      password: daofu
+    pool-config:
+      testOnBorrow: true
+      maxWaitMillis: 60000
+      maxIdle: 300
+      maxTotal: 200
+
+# mybatis配置
+mybatis:
+  mapper-locations: com/daofu/*/mapper/*.xml
+  # mapper返回实体驼峰命名配置
+  configuration:
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.daofu.*.model.*
+
+# 文件大小限制（图片：10M）
+file:
+  root:
+    path: /home/images/
+  oss:
+    open: true
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    bucketName: smartstore-test
+    accessKey: LTAIuk8kZORDF6Q7
+    accessKeySecret: pJA7TRotrT9S5xb99tobKQS7SawfhM
+    accessUrl: http://smartstore-test.oss-cn-hangzhou.aliyuncs.com
+multi:
+  defaultEncoding: UTF-8
+  maxUploadSize: 52428800
+  maxInMemorySize: 1048576
+
+# 0:百度，1:道富，2:都不用
+daofu:
+  faceCheck:
+    type: 1
+# 百度人脸识别信息
+baidu:
+  appId: 14346509
+  apiKey: U1waadEX89OPA7v7AXfIEhOR
+  secretKey: A9GhKfwiqBE8PyZn402NRleB6trDtEjB
+
+# nginx图片存放地址
+application:
+  url: http://192.168.6.241:8888
+
+# 虹软配置
+config:
+  freesdk:
+    app-id: 42mQQDjseKRHwrNntMiKieAXmjU8TLRmJNepZnesq8hD
+    sdk-key: C7tAwZr6rH6bmetYgGyyD5ncWw5xCqYX1YenC3NkfAb
+    pool-size: 10
+
+duplicate:
+  # 去重锁定时间（单位：秒）
+  lock:
+    second: 30
+
+# 线程池数量
+thread:
+  pool:
+    task1:
+      num: 5
+    task2:
+      num: 5
+
+service:
+  url:
+    sms: http://192.168.6.241:8890/api/sms/notify.json
+
+feature:
+  partition:
+    size: 1000

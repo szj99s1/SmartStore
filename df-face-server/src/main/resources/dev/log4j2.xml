@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <properties>
+        <property name="LOG_HOME">./logs</property>
+        <property name="FILE_NAME">df-face-server</property>
+    </properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%highlight{%d{HH:mm:ss.SSS} %-5level}{FATAL=red blink, ERROR=red, WARN=yellow bold, INFO=green, DEBUG=green bold, TRACE=blue} %class{36}.%M()/%L    %highlight{- %msg%xEx%n}{STYLE=Logback}"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="com.daofu" level="debug"/>
+
+        <root level="info">
+            <appender-ref level="debug" ref="Console"/>
+        </root>
+    </Loggers>
+</configuration>

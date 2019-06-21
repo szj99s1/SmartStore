@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--命名空间应该是对应接口的包名+接口名 -->
+<mapper namespace="com.daofu.faceserver.dao.BlacklistLogDao">
+	<insert id="add">
+		INSERT INTO biz_blacklist_log
+		(
+			create_time
+			, shop_id
+			, device_code
+			, face_url
+			, original_url
+			, rec_id
+			, real_name
+			, sub_org_id
+			, sex
+			, user_id
+		) VALUES (
+			#{createTime}
+			, #{shopId}
+			, #{deviceCode}
+			, #{faceUrl}
+			, #{originalUrl}
+			, #{recId}
+			, #{realName}
+			, #{subOrgId}
+			, #{sex}
+			, #{userId}
+		)
+	</insert>
+</mapper>
